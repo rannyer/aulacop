@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+.hello-world {
+	background: blue;
+	color: pink;
+}
